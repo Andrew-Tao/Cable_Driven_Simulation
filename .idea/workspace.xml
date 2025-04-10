@@ -7,6 +7,7 @@
     <list default="true" id="522a2a5a-ec73-407a-9245-00a2bd2aa876" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/Cable_Driven_Simulation.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -222,7 +223,7 @@
       <workItem from="1743647809859" duration="8078000" />
       <workItem from="1743704222360" duration="10100000" />
       <workItem from="1743885376792" duration="11827000" />
-      <workItem from="1744124711747" duration="24002000" />
+      <workItem from="1744124711747" duration="24333000" />
     </task>
     <servers />
   </component>
